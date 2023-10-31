@@ -1,0 +1,2 @@
+this is the other text,besides readme.txt.
+add something there.
