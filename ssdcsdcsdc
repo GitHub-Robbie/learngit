@@ -1,0 +1,24 @@
+[33mtag v0.1[m
+Tagger: Robbie <1476188623@qq.com>
+Date:   Tue Oct 31 14:59:31 2023 +0800
+
+version 0.1 released
+
+[33mcommit f6f8b660af7759966cc1c307e891a57f43a47278[m[33m ([m[1;33mtag: v0.1[m[33m)[m
+Merge: 901f1e3 7a2cd22
+Author: Robbie <1476188623@qq.com>
+Date:   Tue Oct 31 09:23:11 2023 +0800
+
+    conflict fixed
+
+[1mdiff --cc readme.txt[m
+[1mindex c63dbbd,0a3eedc..7a11601[m
+[1m--- a/readme.txt[m
+[1m+++ b/readme.txt[m
+[36m@@@ -2,4 -2,4 +2,4 @@@[m [mGit is a distributed version control sy[m
+  Git is free software distributed under the GPL.[m
+  Git has a mutable index called stage[m
+  Git tracks changes of files.[m
+[31m- Creating a new branch is quick & simple.[m
+[31m -Creating a new branch is quick AND simple.[m
+[32m++Creating a new branch is quick and simple.[m
